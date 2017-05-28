@@ -1,0 +1,20 @@
+# Unicode extended characters used
+
+## Handwritten
+
+ˊ   U+0341
+
+ŭ   U+016d
+
+ă   U+0103
+
+ú   U+00fa
+
+ó   U+00f3
+
+á   U+00e1
+
+## Typed
+
+ʻ   U+02bb (okina)
+
