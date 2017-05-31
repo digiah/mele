@@ -1,3 +1,5 @@
+#OCRopus
+
 ## method
 Initial simulations used all but last three lines of the first page for training and applied the resulting model to those last three lines.
 The trainings were run on each of the three suffix sets below.
